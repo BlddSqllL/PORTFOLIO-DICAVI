@@ -1,10 +1,11 @@
 .about {
-    height: 500px;
-    background-color: blue;
+  height: 500px;
+  background-color: blue;
 
-    display: flex;
+  display: flex;
 }
 
 .aptitudes {
-    display: flex;
+  display: flex;
 }
+
